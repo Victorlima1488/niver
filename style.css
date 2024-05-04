@@ -3,6 +3,7 @@ body {
 	background-image: url("http://www.planwallpaper.com/static/images/vladstudio-squares-Cool-Background.jpg");
 	background-position: right center;
 	background-size: 100%;
+	color: #292929;
 }
 
 span {
@@ -311,6 +312,5 @@ h1 {
 	position: relative;
 	top: 200px;
 	text-align: center;
-	color: white;
 	font-size: 3.5em;
 }
